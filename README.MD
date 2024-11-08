@@ -32,4 +32,5 @@
 
 1. Service Account json file.
 2. SheetId
-3. 
+3. Tab name
+4. Cell range
